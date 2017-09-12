@@ -6,3 +6,6 @@
 
 # Don't ignore a.test.
 !a.test
+
+# Ignore .o files
+*.o
