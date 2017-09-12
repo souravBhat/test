@@ -1,0 +1,8 @@
+# Ignore editor files
+*~
+
+# Ignore .test files
+*.test
+
+# Don't ignore a.test.
+!a.test
